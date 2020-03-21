@@ -36,7 +36,7 @@ theme = "freelancer"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "emma.png"
+        image = "emma3.png"
         name = "Lieferemma"
         subtitle = "Einkaufen vor der Haustür"
 

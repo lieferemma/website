@@ -21,7 +21,125 @@
    inkscape:export-xdpi="96.119736"
    inkscape:export-ydpi="96.119736">
   <defs
-     id="defs2" />
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1665"
+       id="pattern1688"
+       patternTransform="matrix(0.19409907,-0.13962216,0.2107365,0.29296036,149.41872,202.42958)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1665"
+       id="pattern1674"
+       patternTransform="translate(1.3490404e-5,-2.6021162e-6)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="79.41964"
+       height="5.5703279"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,149.41872,198.84753)"
+       id="pattern877">
+      <rect
+         y="0"
+         x="0"
+         height="3.7795277"
+         width="79.419617"
+         id="rect869"
+         style="fill:#0e2c2d;fill-opacity:1;stroke:none;stroke-width:0.6899243;stroke-opacity:1" />
+      <rect
+         y="3.6805642"
+         x="0"
+         height="1.8897638"
+         width="79.41964"
+         id="rect871"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47251928;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.26458333,0,0,0.26458333,149.4187,206.07253)"
+       id="pattern1617"
+       xlink:href="#pattern877-3"
+       inkscape:collect="always" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="79.41964"
+       height="5.5703279"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,149.41872,198.84753)"
+       id="pattern877-3">
+      <rect
+         y="0"
+         x="0"
+         height="3.7795277"
+         width="79.419617"
+         id="rect869-6"
+         style="fill:#0e2c2d;fill-opacity:1;stroke:none;stroke-width:0.6899243;stroke-opacity:1" />
+      <rect
+         y="3.6805642"
+         x="0"
+         height="1.8897638"
+         width="79.41964"
+         id="rect871-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47251928;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="79.419633"
+       height="4.7122985"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,149.41872,205.94707)"
+       id="pattern1657">
+      <rect
+         ry="0.16290462"
+         y="0"
+         x="0"
+         height="3.7795277"
+         width="79.419624"
+         id="rect1635-3"
+         style="fill:#0e2c2d;fill-opacity:1;stroke:none;stroke-width:1.37266195;stroke-opacity:1" />
+      <rect
+         ry="0.056390058"
+         y="3.7674167"
+         x="0.23016502"
+         height="0.94488192"
+         width="79.189468"
+         id="rect1637-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.88172126;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="79.419633"
+       height="4.7122985"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,149.41872,202.42958)"
+       id="pattern1665">
+      <rect
+         ry="0.16290462"
+         y="0"
+         x="0"
+         height="3.7795277"
+         width="79.419624"
+         id="rect1635"
+         style="fill:#0e2c2d;fill-opacity:1;stroke:none;stroke-width:1.37266195;stroke-opacity:1" />
+      <rect
+         ry="0.056390058"
+         y="3.7674167"
+         x="0.23016502"
+         height="0.94488192"
+         width="79.189468"
+         id="rect1637"
+         style="fill:#fff100;fill-opacity:1;stroke:none;stroke-width:0.88172126;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="79.419633"
+       height="4.7122985"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,149.41872,202.42958)"
+       id="pattern1671">
+      <rect
+         id="rect1669"
+         y="0"
+         x="0"
+         height="4.7122984"
+         width="79.419632"
+         style="fill:url(#pattern1674);stroke:none;stroke-width:3.77952766" />
+    </pattern>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,19 +147,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="356.70067"
-     inkscape:cy="412.76339"
+     inkscape:zoom="2.1723333"
+     inkscape:cx="405.52648"
+     inkscape:cy="282.0314"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:window-width="1890"
      inkscape:window-height="2101"
-     inkscape:window-x="806"
-     inkscape:window-y="172"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="87.898264,119.63653"
@@ -113,6 +231,21 @@
        orientation="0,1"
        id="guide4653"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="75.871137,105.35431"
+       orientation="0,1"
+       inkscape:locked="false"
+       id="guide863" />
+    <sodipodi:guide
+       position="149.41871,96.667413"
+       orientation="1,0"
+       id="guide873"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="170.43182,96.620166"
+       orientation="1,0"
+       id="guide875"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -133,12 +266,24 @@
      cy="192.86757"
      rx="34.088726"
      ry="34.08873"
-     inkscape:label="Hintergrund" />
+     inkscape:label="Hintergrund"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     style="display:inline;fill:#6d6d6d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 82.28069,182.00074 20.00911,-0.21261 -0.0988,9.85756 -20.568398,0 z"
+     id="path861"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="opacity:0.647" />
+     style="display:none;opacity:0.647" />
   <ellipse
      style="display:inline;fill:#e9c29c;fill-opacity:1;stroke-width:0.30435354"
      id="path4533"
@@ -146,10 +291,16 @@
      cy="181.76451"
      rx="10.016369"
      ry="9.874629"
-     inkscape:label="Kopf" />
+     inkscape:label="Kopf"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <g
      id="g4541"
-     inkscape:label="Auge_r">
+     inkscape:label="Auge_r"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <ellipse
        inkscape:label="Auge"
        ry="1.5827754"
@@ -169,7 +320,10 @@
   <g
      inkscape:label="Auge_l"
      id="g4547"
-     transform="translate(6.0476191,0.09449405)">
+     transform="translate(6.0476191,0.09449405)"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <ellipse
        style="fill:#343433;fill-opacity:1;stroke-width:0.27718562"
        id="ellipse4543"
@@ -193,7 +347,10 @@
      cy="185.9695"
      rx="0.9921875"
      ry="0.96856397"
-     inkscape:label="Bäckchen" />
+     inkscape:label="Bäckchen"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="display:inline;opacity:0.5;fill:#d63418;fill-opacity:1;stroke-width:0.26458332"
      id="path4549-3"
@@ -201,7 +358,10 @@
      cy="186.04034"
      rx="0.9921875"
      ry="0.96856403"
-     inkscape:label="Bäckchen" />
+     inkscape:label="Bäckchen"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="display:none;fill:#000000;fill-opacity:1;stroke-width:0.27782056"
      id="path4575"
@@ -212,18 +372,24 @@
      inkscape:label="Nase" />
   <path
      style="display:inline;fill:#6d6d6d;fill-opacity:1;stroke:#255000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
-     d="m 81.956389,189.68573 c 1.660509,-7.68143 4.239143,-9.12763 14.110648,-14.11828 2.510954,0.74901 3.05534,1.44352 4.677853,3.70287 -0.0327,1.84749 0.9264,12.77409 0.9264,12.77409 0.35599,0.81027 0.81856,-12.32129 0.38738,-14.40574 -0.75187,-3.63474 -4.364484,-6.08182 -5.300472,-6.19121 -1.948109,-0.055 -5.074737,0.19714 -7.647541,0.75636 -2.614889,0.68648 -5.787742,2.30834 -6.659645,7.1248 -0.627176,3.46457 -0.656318,8.55135 -0.494623,10.35711 z"
+     d="m 81.956389,189.68573 c 1.660509,-7.68143 4.239143,-9.12763 14.110648,-14.11828 2.510954,0.74901 3.05534,1.44352 4.677853,3.70287 -0.0327,1.84749 1.42232,12.34649 1.42232,12.34649 0.14929,-0.40634 0.32264,-11.89369 -0.10823,-13.97814 -0.75187,-3.63474 -4.364484,-6.08182 -5.300472,-6.19121 -1.948109,-0.055 -5.074737,0.19714 -7.647541,0.75636 -2.614889,0.68648 -5.787742,2.30834 -6.659645,7.1248 -0.627176,3.46457 -0.990405,10.51131 -0.82871,12.31707 z"
      id="path4586"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccssccsc"
-     inkscape:label="Haare" />
+     sodipodi:nodetypes="cccssccscc"
+     inkscape:label="Haare"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <path
      style="display:inline;fill:#29636d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 87.898263,193.0093 c -8.150216,0 -7.46445,13.3853 -8.050795,21.07217 h 24.710192 c -0.92199,-6.9882 0.0455,-21.10221 -6.614584,-21.07217 z"
      id="path4635"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc"
-     inkscape:label="Hemd" />
+     inkscape:label="Hemd"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <path
      style="display:inline;fill:none;stroke:#343433;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="m 87.898264,187.28059 c 0.595991,0.93356 1.430855,2.51171 4.176086,2.53954 2.605521,-0.0661 3.565433,-1.32151 4.34313,-2.53953"
@@ -231,7 +397,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc"
      inkscape:label="Mund"
-     inkscape:export-filename="/home/benbss/dev/lieferemma_website/emma.png"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96" />
   <image
@@ -249,12 +415,39 @@
      id="path4645"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc"
-     inkscape:label="Hände" />
+     inkscape:label="Hände"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <path
-     style="fill:#0e2c2d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 87.898264,193.0093 -2.759129,21.07217 0,6.18936 14.251718,0 0,-6.18936 -2.973373,-21.07217 z"
+     style="fill:url(#pattern1688);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 87.898264,193.0093 -2.759129,21.07217 v 6.18936 h 14.251718 v -6.18936 L 96.41748,193.0093 Z"
      id="path4647"
      inkscape:connector-curvature="0"
      inkscape:label="Schürze"
-     sodipodi:nodetypes="ccccccc" />
+     sodipodi:nodetypes="ccccccc"
+     inkscape:export-filename="/home/benbss/dev/lieferemma_website/static/img/emma2.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     style="stroke:none;fill:url(#pattern877)"
+     width="21.013113"
+     height="1.4738159"
+     x="149.41872"
+     y="198.84753"
+     id="rect881" />
+  <rect
+     style="stroke:none;fill:url(#pattern1665);fill-opacity:1.0"
+     width="21.013111"
+     height="1.2467957"
+     x="149.41872"
+     y="202.42958"
+     id="rect1676" />
+  <rect
+     style="stroke:none;fill:url(#pattern1657)"
+     width="21.013111"
+     height="1.2467957"
+     x="149.41872"
+     y="205.94707"
+     id="rect1661" />
 </svg>
