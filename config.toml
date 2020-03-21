@@ -36,9 +36,9 @@ theme = "freelancer"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "profile.png"
-        name = "Mr. Hugo"
-        subtitle = "Blogger - Programmer - Gopher"
+        image = "emma.png"
+        name = "Lieferemma"
+        subtitle = "Einkaufen vor der Haustür"
 
 
     [params.portfolio]
