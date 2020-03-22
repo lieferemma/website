@@ -48,7 +48,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -203,6 +203,14 @@ section.success a.active {
     }
 }
 
+
+#portfolio .video {
+    display:block;
+    text-align: center;
+    margin: 0 0 25px;
+}
+
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -262,9 +270,9 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #18bc9c;
     font-size: 20px;
-    color: #fff;
+    color: #18bc9c;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -273,9 +281,9 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
-    color: #18bc9c;
-    background: #fff;
+    border: solid 2px #18bc9c;
+    color: #fff;
+    background: #18bc9c;
 }
 
 .floating-label-form-group {
