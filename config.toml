@@ -46,20 +46,20 @@ theme = "freelancer"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Portfolio"
+        title = "Portofolio"
 
         [params.portfolio.modal]
-            client = "Client"
-            date = "Date"
-            category = "Category"
-            buttontext = "Close"
+#            client = "Client"
+#            date = "Date"
+#            category = "Category"
+            buttontext = "Zurück"
 
 
     [params.about]
-        title = "About"
+        title = "Inspiration"
         # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "Wir haben einen Hilferuf einer Bäckerei gesehen, die kurz vor dem Bankrott steht. Der Grund dafür ist, dass die Kunden keine Produkte mehr in lokalen Geschäften kaufen, wie in diesem speziellen Fall eine Bäckerei."
+        right = "Wir wollen ihnen helfen, indem wir ihnen einen neuen Vertriebskanal - Lieferemma - zur Verfügung stellen, um die Nachfrage in Zeiten der sozialen Distanzierung zu befriedigen."
 
         [params.about.button]
             text = "Download theme"
@@ -68,36 +68,36 @@ theme = "freelancer"
 
 
     [params.contact]
-        title = "Contact"
+        title = "Kontakt"
 
         # 'error' defines error messages for invalid inputs
         [params.contact.form.name]
             text = "Name"
-            error = "Please enter your name."
+            error = "Bitte Namen eingeben."
 
         [params.contact.form.email]
-            text = "Email Address"
-            error = "Please enter your email address."
+            text = "Email Adresse"
+            error = "Bitte Email Adresse eingeben."
 
         [params.contact.form.phone]
-            text = "Phone Number"
-            error = "Please enter your phone number."
+            text = "Telefon Nummer"
+            error = "Bitte Telefon Nummer eingeben."
 
         [params.contact.form.message]
-            text = "Message"
-            error = "Please enter a message."
+            text = "Nachricht"
+            error = "Bitte Nachricht eingeben."
 
         [params.contact.form.button]
-            text = "Send"
+            text = "Senden"
 
 
     [params.footer]
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
         [params.footer.location]
-            title = "Location"
+            title = "Kontakt"
             # Postal address (add as many lines as necessary)
-            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
+            address = ["info@lieferemma.de"]
 
         [params.footer.social]
             title = "Around the web"
@@ -106,13 +106,13 @@ theme = "freelancer"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/spf13/hugo"
+                link = "//github.com/lieferemma"
 
-            [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+            #[[params.footer.social.networks]]
+            #    icon = "fa-stack-overflow"
+            #    link=  "//stackoverflow.com/questions/tagged/hugo"
 
 
         [params.footer.credits]
-            title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+            title = "#WirVsVirus"
+            text = "Dieses Projekt entstand im Zuge des #WirVsVirus Hackathons. Dieser steht unter dem Motto: \"Wie können wir als Gesellschaft die Herausforderungen, die im Zuge der Corona Krise entstehen, mit neuen Lösungen gemeinsam meistern?\""
