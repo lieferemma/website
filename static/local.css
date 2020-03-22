@@ -1,0 +1,7 @@
+header {
+    background-image: linear-gradient(to top, #398c9b 0%, #48c096 50%)
+}
+
+hr.star-light::after {
+    visibility: hidden;
+}

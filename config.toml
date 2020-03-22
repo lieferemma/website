@@ -27,7 +27,7 @@ theme = "freelancer"
     email = "info@lieferemma.de"
 
     # Custom assets
-	custom_css = []
+	custom_css = [ "local.css" ]
 	custom_js  = []
 
     [params.navigation]
@@ -36,9 +36,9 @@ theme = "freelancer"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "emma3.png"
+        image = "LieferEmma_Logo_b_72dpi.png"
         name = "Lieferemma"
-        subtitle = "Einkaufen vor der Haustür"
+        subtitle = "Die beste Wahl, bestelle lokal"
 
 
     [params.portfolio]
@@ -65,31 +65,6 @@ theme = "freelancer"
             text = "Download theme"
             link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
             icon = "download"
-
-
-    [params.contact]
-        title = "Kontakt"
-
-        # 'error' defines error messages for invalid inputs
-        [params.contact.form.name]
-            text = "Name"
-            error = "Bitte Namen eingeben."
-
-        [params.contact.form.email]
-            text = "Email Adresse"
-            error = "Bitte Email Adresse eingeben."
-
-        [params.contact.form.phone]
-            text = "Telefon Nummer"
-            error = "Bitte Telefon Nummer eingeben."
-
-        [params.contact.form.message]
-            text = "Nachricht"
-            error = "Bitte Nachricht eingeben."
-
-        [params.contact.form.button]
-            text = "Senden"
-
 
     [params.footer]
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
