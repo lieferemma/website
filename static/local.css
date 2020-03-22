@@ -5,3 +5,7 @@ header {
 hr.star-light::after {
     visibility: hidden;
 }
+
+header .intro-text .skills {
+    text-transform: uppercase;
+}

@@ -46,7 +46,7 @@ theme = "freelancer"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Portofolio"
+        title = "Portfolio"
 
         [params.portfolio.modal]
 #            client = "Client"
@@ -62,8 +62,8 @@ theme = "freelancer"
         right = "Wir wollen ihnen helfen, indem wir ihnen einen neuen Vertriebskanal - Lieferemma - zur Verfügung stellen, um die Nachfrage in Zeiten der sozialen Distanzierung zu befriedigen."
 
         [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+            text = "Download Flyer"
+            link = "//github.com/lieferemma/media-content/raw/master/lieferemma_aushang_incl_qr_black.pdf"
             icon = "download"
 
     [params.footer]
