@@ -44,8 +44,7 @@ theme = "freelancer"
     [params.konzept]
         title = "Konzept"
 
-        video = "https://www.youtube-nocookie.com/embed/ATWaEFmtHmU"
-
+        video = "https://www.youtube-nocookie.com/embed/MBi9FAcIN1o"
 
         [params.konzept.button]
             text = "Download Flyer"
