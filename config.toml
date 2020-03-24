@@ -75,9 +75,9 @@ theme = "freelancer"
                 icon = "fa-github"
                 link = "//github.com/lieferemma"
 
-            #[[params.footer.social.networks]]
-            #    icon = "fa-stack-overflow"
-            #    link=  "//stackoverflow.com/questions/tagged/hugo"
+            [[params.footer.social.networks]]
+                icon = "fa-discord"
+                link=  "//discord.gg/rWWpxYG"
 
 
         [params.footer.credits]
